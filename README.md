@@ -1,7 +1,5 @@
 ### Oii, eu sou a Leticia Almeida
 
-- No processo de ser uma desenvolvedora Front-End
-
   <div>
   <a href="https://github.com/leticialmeid4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticialmeid4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

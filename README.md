@@ -1,5 +1,10 @@
 ### Oii, eu sou a Leticia Almeida!
 
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticialmeid4&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=date_night"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialmeid4&layout=compact&langs_count=16&theme=date_night"/>
+</div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
